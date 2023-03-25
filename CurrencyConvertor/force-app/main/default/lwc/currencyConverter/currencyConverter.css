@@ -48,3 +48,13 @@ img{
     display: block;
     margin: auto;
 }
+.result{
+    font-weight: bold;
+    font-size: var(--font-24);
+    margin-bottom: var(--font-24);
+    color: #1b96ff;
+}
+.result-to{
+    color : orange;
+}
+
